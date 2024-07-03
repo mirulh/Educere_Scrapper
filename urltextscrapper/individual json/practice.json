@@ -1,0 +1,677 @@
+[
+{
+    "name": "Hackerrank",
+    "slug": "hackerrank-e2347c7a2a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_H.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Hackerrank is the market-leading coding test and interview solution for hiring developers. We candidates sharpen their tech skills and pursue job opportunities. From prepping for jobs and practicing coding to running a world-class technical interview, give developers the tools they need to showcase their skills, passion, and potential. Get the content you need to develop new skills – and land the job you’ve dreamed of. And practice :: the movement. Screen on skills. Leave the binary tree. ",
+    "url": "https://www.hackerrank.com",
+    "letterLength": 494,
+    "wordLength": 77
+},
+{
+    "name": "Cp-algorithms",
+    "slug": "cp-algorithms-e48f50762a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Data Structures",
+            "value": "data-structures"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "The goal of this project is to translate the wonderful resource http://e-maxx. Ru/algo which provides descriptions of many algorithms and data structures especially popular in field of competitive programming. Moreover we want to improve the collected knowledge by extending the articles and adding new articles to the collection. The repository name and the owning organizations were renamed! now the repo is located at https://github. Com/cp-algorithms. October 31, 2022: it is now possible to select",
+    "url": "https://cp-algorithms.com/",
+    "letterLength": 502,
+    "wordLength": 74
+},
+{
+    "name": "Techiedelight$",
+    "slug": "techiedelight$-e6bf26962a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_T.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Techie delight is a leading platform for technical interview preparation. Improve your algorithmic skills and crack interviews with top tech companies. Github iplastic solarized light textmate tomorrow xcode kuroir katzenmilch sql server ambiance chaos clouds midnight dracula cobalt gruvbox green on black idle fingers krtheme merbivore merbile soft mono industrial monokai pastel on dark solarized dark terminal tomorrow night tomorrow night blue tomorrow night bright tomorrow",
+    "url": "https://www.techiedelight.com",
+    "letterLength": 479,
+    "wordLength": 66
+},
+{
+    "name": "Hackerearth",
+    "slug": "hackerearth-e8fa19b62a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_H.png",
+    "category": [
+        {
+            "label": "Data Science",
+            "value": "data-science"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Recruiters from 1,000+ companies hire the best developers. Coding contests, data science competitions, and hackathons help 10m+ developers be better. Hackerearth is a coding platform and developer assessment software. It's time to look beyond the inverted binary tree. The best tech talent for your hiring pipe is based on skills ditch the gpa, embrace the code, and reduce acquisition effort. Hackerearth elevates developer experience with its built-in ide, custom question library",
+    "url": "https://www.hackerearth.com:443/",
+    "letterLength": 482,
+    "wordLength": 71
+},
+{
+    "name": "Codewars",
+    "slug": "codewars-eb3fbb4a2a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Code kata is crafted by the community to you strengthen different coding techniques. Master your current language of choice, or quickly pick up any of the 55+ programming languages ed. Earn ranks and honor kata code challenges are ranked from beginner to expert level. Join a community of over 3 million developers and improve your coding skills in over 55 programming languages! codewars is a collective effort by its users, creators, and creators. ",
+    "url": "https://www.codewars.com",
+    "letterLength": 450,
+    "wordLength": 73
+},
+{
+    "name": "Coderbyte",
+    "slug": "coderbyte-ed5b313e2a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Prep for interviews on the #1 platform for 1m+ developers that want to level up their careers. Get unlimited candidates and admins on every plan. Start trials on a free trial. If you are a developer preparing for an interview or trying to level your coding skills, you'll be able to test your skills in the first place. Click here for more info on the top of the. 1m+ platform. Use the form below to get started. ",
+    "url": "https://coderbyte.com",
+    "letterLength": 413,
+    "wordLength": 77
+},
+{
+    "name": "Codingdojo",
+    "slug": "codingdojo-ef39c9de2a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Learn programming algorithms the exciting way: through hands-on exercises, challenges, and tutorials. No textbooks or lectures guaranteed! || body: welcome to the algorithm app learn the building blocks of programming like for loops, if/else statements, array manipulation, and more. Create an account please use the same email that you used on your admissions application if you are an existing student or an applicant. To your account or as admin predict the output coding challenges video walkthroughs",
+    "url": "https://algorithm.codingdojo.com",
+    "letterLength": 504,
+    "wordLength": 76
+},
+{
+    "name": "Edabit",
+    "slug": "edabit-f1287cc22a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_E.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Title: edabit || description: n/a || body: n/a || n/a: a tidbit. Tee: edabit: 'i don't know if i'm going to be a good guy,' he says. 'it's not a bad thing, it's a shame', he adds. ",
+    "url": "https://edabit.com",
+    "letterLength": 180,
+    "wordLength": 37
+},
+{
+    "name": "Devpost",
+    "slug": "devpost-f3176a8e2a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_D.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "The home for hackathons || description: participate in online virtual and in-person hackathon to build products, practice skills, learn technologies, win prizes, and grow your network. || body: the for hackers where organizations and developers come together to build, inspire, and innovate. For organizers for participants trusted by the world's leading organizations hackathon. Hackathon hackathon: the home of hackathon organizers. ",
+    "url": "https://devpost.com",
+    "letterLength": 435,
+    "wordLength": 60
+},
+{
+    "name": "Pythonprinciples",
+    "slug": "pythonprinciples-f5352f222a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_P.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Learn the basics of python programming online with python principles. Helpful community, example-based learning, and 100+ coding exercises. Get instant on your code. Test yourself with challenges and build skills with projects. Learn python programming by actually programming. If you are a system administrator, a programmer will tell you right away if your code is correct, and if not, how to fix it. A programr will provide this , analyzing your code, checking it for correctness. ",
+    "url": "https://pythonprinciples.com",
+    "letterLength": 484,
+    "wordLength": 76
+},
+{
+    "name": "Lintcode",
+    "slug": "lintcode-f74acefc2a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Lintcode has the most interview problems covering google, facebook, linkedin, amazon, amazon and so on. We provide chinese and english versions for coders around the world. If you have any questions, please contact us on 020 555 111 or email us at info@lintcode. Co. Uk or call us at (888) 777-7772 or call (602) 888-8883-8255 or email info@alinta. Com. ",
+    "url": "https://www.lintcode.com/",
+    "letterLength": 354,
+    "wordLength": 59
+},
+{
+    "name": "Codeforces",
+    "slug": "codeforces-f92831242a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "R",
+            "value": "r"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Paid",
+    "hasCert": false,
+    "description": "Codeforces round 953 (div. 2) 38:29:07 register now. Top rated # user rating 1 t ourist 3843 2 j iangly 3705 3 b enq 3628 4 o rzdevinwang 3571 5 g eothermal 3569 5 c nnfls_csy 3569 7 qdai0815 3530 8 e cnerwala 3499 9 g yh20 3447 10 r",
+    "url": "https://codeforces.com/",
+    "letterLength": 233,
+    "wordLength": 50
+},
+{
+    "name": "Codingbat",
+    "slug": "codingbat-fbd2bb2e2a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Java",
+            "value": "java"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Codingbat java || description: n/a || body: id/email password forgot password create account about code +videos done prefs codingbat code practice welcome to codingbat. Logic-2 medium boolean logic puzzles -- if else && ! map-1 basic map get()/put(), no loops map-2 maps with bulk data and loops functional-1 functional mapping operations on lists with lambdas java java java example solution code java",
+    "url": "https://codingbat.com/java",
+    "letterLength": 402,
+    "wordLength": 62
+},
+{
+    "name": "Spoj",
+    "slug": "spoj-fe2f7b1e2a7c11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_S.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Java",
+            "value": "java"
+        },
+        {
+            "label": "C++",
+            "value": "cpp"
+        },
+        {
+            "label": "C#",
+            "value": "c-sharp"
+        },
+        {
+            "label": "Go",
+            "value": "go"
+        },
+        {
+            "label": "R",
+            "value": "r"
+        },
+        {
+            "label": "Haskell",
+            "value": "haskell"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "The solution to problems can be submitted in over 60 languages including c, c++, java, python, c#, go, haskell, ocaml, and f#. Spoj has a rapidly growing problem set/tasks available for practice 24 hours/day, including many original tasks prepared by the community of expert problem setters associated with the project. The problem setter is a true programming master and is able to build efficient algorithms. ",
+    "url": "https://www.spoj.com/",
+    "letterLength": 411,
+    "wordLength": 65
+},
+{
+    "name": "Sql-ex",
+    "slug": "sql-ex-007df04e2a7d11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_S.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": true,
+    "description": "Sql exercises language усски english june 14, 21:36 msk sql exercises is intended for acquiring good practical experience, which is focused on data operation, namely on sql dml. 3 rating stages are suggested, they are aimed at testing of specialists and their certification. The source is absolutely free of charge, and the certificate purchase has a voluntary basis. If you use content filter, it should allow opening child windows to pages. ",
+    "url": "https://sql-ex.ru/",
+    "letterLength": 443,
+    "wordLength": 71
+},
+{
+    "name": "Trprt",
+    "slug": "trprt-027798a02a7d11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_T.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Python practice problems & exercises | trprt. Io || description: n/a || body: n/a || n/a: b/b: c/c: i'm not a python user, but i think it's a python. I don't know what to do with python practice problems & exercises. I'm trying to figure out how to use python in the future. ",
+    "url": "https://www.trprt.io/",
+    "letterLength": 275,
+    "wordLength": 53
+},
+{
+    "name": "Codeabbey",
+    "slug": "codeabbey-0458928c2a7d11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": true,
+    "description": "Codeabbey (register) with username and password or else everyone can win free programming certificate here how this works, what is inside? we proudly collect s of the universities which actively use codeabbbey. Users rank solved recent at forums: fixing an anagram from therearenousernamesleftforme. Qwerty last at jun 11 2024 17:53 midi variable length numbers from zelevin",
+    "url": "https://www.codeabbey.com/",
+    "letterLength": 374,
+    "wordLength": 56
+},
+{
+    "name": "Rosalind",
+    "slug": "rosalind-06baca682a7d11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_R.png",
+    "category": [
+        {
+            "label": "Bioinformatics",
+            "value": "bioinformatics"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Go",
+            "value": "go"
+        },
+        {
+            "label": "Assembly",
+            "value": "assembly"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Rosalind is a platform for learning bioinformatics and programming through problem solving. You'll get familiar with the operations needed to start solving challenges in the stronghold. In the armory you implement algorithms on your own. The armory is based on a variety of topics including computational mass spectrometry, alignment, dynamic programming, genome assembly, genome rearrangements, phylogeny, probability, string algorithms and others. ",
+    "url": "https://rosalind.info/problems/locations/",
+    "letterLength": 450,
+    "wordLength": 61
+},
+{
+    "name": "Topcoder",
+    "slug": "topcoder-08e0782e2a7d11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_T.png",
+    "category": [
+        {
+            "label": "Artificial Intelligence",
+            "value": "artificial-intelligence"
+        },
+        {
+            "label": "Data Science",
+            "value": "data-science"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Our global talent network has expertise in all the right places. Ai-accelerated, no contracts, no ramp-up, no risk. View a demo 20% off all work launched in june 2024. Experts in data science topcoder’s data science experts are ready to. . The. Data science industry is a. Global leader in ai and qa. We’re here to bridge it with our global presence of 200+ ai practitioners. ",
+    "url": "https://www.topcoder.com/",
+    "letterLength": 376,
+    "wordLength": 66
+}
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Stanford",
+    "slug": "stanford-ed02f1082a7d11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_S.png",
+    "category": [
+      {
+        "label": "Other",
+        "value": "other"
+      }
+    ],
+    "techStack": [
+      {
+        "label": "Javascript",
+        "value": "javascript"
+      }
+    ],
+    "type": [
+      {
+        "label": "Coding Practice",
+        "value": "coding-practice"
+      }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Code in place || description: a free, human-centered, intro-to-coding course from stanford university || body: you need to enable javascript to run this app. If you want to run the app, you need to create a code that works for you. The course is free and you can download the course in a single click. Click here for more information. And the course will be available in the uk. ",
+    "url": "https://codeinplace.stanford.edu",
+    "letterLength": 379,
+    "wordLength": 69
+  },
+  {
+    "name": "Appacademy",
+    "slug": "appacademy-eed78eda2a7d11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_A.png",
+    "category": [
+      {
+        "label": "Web Development",
+        "value": "web-development"
+      },
+      {
+        "label": "Software Development",
+        "value": "software-development"
+      }
+    ],
+    "techStack": [
+      {
+        "label": "Other",
+        "value": "other"
+      }
+    ],
+    "type": [
+      {
+        "label": "Video Courses",
+        "value": "video-courses"
+      },
+      {
+        "label": "Hands-On Practice",
+        "value": "hands-on-practice"
+      },
+      {
+        "label": "Project-Based",
+        "value": "project-based"
+      }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Free access to app academy's entire full-stack curriculum. It includes over 1,500 hours of readings, videos, projects and more. The course is designed to get you hired as a developer. If you're a software engineer, you'll be able to use the course to create your own website. Click here to learn more about app academy open - the first free, online web development course that's meant to get your job done. ",
+    "url": "https://open.appacademy.io",
+    "letterLength": 407,
+    "wordLength": 71
+  },
+  {
+    "name": "Flatironschool",
+    "slug": "flatironschool-f077c1ec2a7d11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_F.png",
+    "category": [
+      {
+        "label": "Artificial Intelligence",
+        "value": "artificial-intelligence"
+      },
+      {
+        "label": "Machine Learning",
+        "value": "machine-learning"
+      },
+      {
+        "label": "Data Science",
+        "value": "data-science"
+      },
+      {
+        "label": "Cybersecurity",
+        "value": "cybersecurity"
+      },
+      {
+        "label": "Cryptography",
+        "value": "cryptography"
+      },
+      {
+        "label": "Software Engineering",
+        "value": "software-engineering"
+      },
+      {
+        "label": "Compliance",
+        "value": "compliance"
+      },
+      {
+        "label": "FullStack Development",
+        "value": "fullstack-development"
+      },
+      {
+        "label": "Software Development",
+        "value": "software-development"
+      }
+    ],
+    "techStack": [
+      {
+        "label": "Python",
+        "value": "python"
+      },
+      {
+        "label": "Foundation",
+        "value": "foundation"
+      }
+    ],
+    "type": [
+      {
+        "label": "MOOC",
+        "value": "mooc"
+      },
+      {
+        "label": "Coding Practice",
+        "value": "coding-practice"
+      },
+      {
+        "label": "Bootcamps",
+        "value": "bootcamps"
+      }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Flatiron schools is a coding bootcamp with on-campus and online courses for coding, data science, cybersecurity, and ui/ux product design. Our courses what we teach software engineering gain a foundation in software engineering by building full-stack web applications using back-end and front-end programming languages, frameworks, and artificial intelligence tools. Possible career paths: full stack developer, web developer, software engineer, and prompt engineer. Data science discover how to gather data from various sources as well",
+    "url": "https://flatironschool.com",
+    "letterLength": 536,
+    "wordLength": 74
+  }
+]

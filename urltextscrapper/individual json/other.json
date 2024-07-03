@@ -1,0 +1,430 @@
+[
+{
+    "name": "Vladmihalcea",
+    "slug": "vladmihalcea-d1f969202a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_V.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Java",
+            "value": "java"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "Spring",
+            "value": "spring"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "I wrote the high-performance java persistence book, which became one of the best-selling java books on amazon. I'm currently developing the amazing hypersistence optimizer. In my free time, i develop various open-source projects (e. G. Hibernate types and flexypool ) and answer questions on stackoverflow. Book my training consulting if you are interested in having me teach you how to get the most out of your data access layer, then you",
+    "url": "https://vladmihalcea.com",
+    "letterLength": 439,
+    "wordLength": 71
+},
+{
+    "name": "Codesignal",
+    "slug": "codesignal-d45634002a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Data Analysis",
+            "value": "data-analysis"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Codesignal's skills assessments and ai-powered learning tools get you where you need to go. Build and assess technical skills in a realistic development environment. Hone in on skilled candidates early with our top-of-funnel evaluations for high-volume pipes. Develop improve team performance with personalized, practice-based, technical learning that delivers real, measurable results. Meet cosmo: the smartest ai-driven ai-based learning tool. ",
+    "url": "https://codesignal.com",
+    "letterLength": 446,
+    "wordLength": 59
+},
+{
+    "name": "Leonnoel",
+    "slug": "leonnoel-d63e1ae42a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "FullStack Development",
+            "value": "fullstack-development"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Assembly",
+            "value": "assembly"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        },
+        {
+            "label": "Bootcamps",
+            "value": "bootcamps"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Github email rss recieve new posts via email leon noel 2021 #100devs free full stack web development bootcamp (live) september 18, 2020 education free full stack coding bootcamp for those laid off or affected by the pandemic. Read using kiwix to power off learning in remote schools may 4, 2020 education how my wife and i built a remote computer lab in tanzania for the maasai. ",
+    "url": "https://leonnoel.com",
+    "letterLength": 379,
+    "wordLength": 66
+},
+{
+    "name": "Kattis",
+    "slug": "kattis-d826e34a2a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_K.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Kattis automatically screens and evaluates each applicant’s technical skills with quick and simple coding challenges. Let us narrow down your candidates – so you can focus on hiring from the best. For companies for problem solvers for universities we have ly spent a lot of time sending out, administrating and evaluating programming test. Use the dashboard to track your candidates' progress. No manual evaluation needed with the code is automatically checked and scored in a blink. ",
+    "url": "https://www.kattis.com/",
+    "letterLength": 484,
+    "wordLength": 76
+},
+{
+    "name": "Learn-c",
+    "slug": "learn-c-da2b01122a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Learn-c. Org is a free interactive c tutorial for people who want to learn c, fast. It is intended for everyone who wants to learn the c programming language. Click on the chapter you wish to begin from, and follow the instructions. Learn the basics hello, world! variables and types arrays multidimensional array conditions strings for loops while loops functions static advanced pointers structures function arguments by reference dynamic allocation array and pointers recursion linked lists binary trees",
+    "url": "https://www.learn-c.org",
+    "letterLength": 506,
+    "wordLength": 78
+},
+{
+    "name": "Bit",
+    "slug": "bit-dc4e9b162a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_B.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "Software Engineering",
+            "value": "software-engineering"
+        },
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "Data Structures",
+            "value": "data-structures"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Cs50's ap® computer science principles xseries program | edx || description: this is the introduction to the intellectual enterprises of computer science and the art of programming for students in high school. Get up to 30% off select programs until june 19. Use code edxstem24. A broad and robust understanding of computers and programming how to think algorithmically and solve programming problems efficiently concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software",
+    "url": "https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles",
+    "letterLength": 523,
+    "wordLength": 74
+},
+{
+    "name": "Hackterms",
+    "slug": "hackterms-de6807a22a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_H.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Hackterms is a crowdsourced dictionary of coding terms. Learn when, where, and why you'd use a particular programming tool, concept, process, or language. Most requested: most requested made in the u. S. , most requested made in the us. If you're a coding user, you'll get an email when a definition is added. You can also request a description if a specific term is used. ",
+    "url": "https://www.hackterms.com",
+    "letterLength": 373,
+    "wordLength": 65
+},
+{
+    "name": "Regular-expressions",
+    "slug": "regular-expressions-e06309762a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_R.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Express.js",
+            "value": "express.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Regular expressions are a special text string for describing a pattern. You are probably familiar with wildcard notations such as *. Txt to find all text files in a file manager. The regex equivalent is. *. Tx. $. But you can do much more with regular expression. A regular expression can be used in text editor like editpad pro or powergrep. It can also be used as a text editor or a specialized text processing",
+    "url": "https://www.regular-expressions.info",
+    "letterLength": 412,
+    "wordLength": 75
+},
+{
+    "name": "Learnyouahaskell",
+    "slug": "learnyouahaskell-e289a2782a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Go",
+            "value": "go"
+        },
+        {
+            "label": "Haskell",
+            "value": "haskell"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Learn you a haskell for great good! || description: n/a || body: hey yo! this is learn youahaskell. The whole thing is completely free to read on, but it's also available in print and i encourage you to buy as many copies as you can afford. Read the buy it! read it on!. . You can also find me idling on #haskelle where i go by the name. ",
+    "url": "https://learnyouahaskell.com/",
+    "letterLength": 338,
+    "wordLength": 68
+},
+{
+    "name": "Mikkegoes",
+    "slug": "mikkegoes-e45da4be2a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_M.png",
+    "category": [
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Learn to code for free in 2024 with our free coding guide for beginners. Learn programming and web development fundamentals step-by-step. Email get the tips now now to get my free guide to teach yourself how to code from scratch. If you are interested in learning tech skills, these tips are perfect for getting started faster. Start with the basics of what coding is about, and learn in-demand skills to build a tech career step- by step. ",
+    "url": "https://mikkegoes.com",
+    "letterLength": 440,
+    "wordLength": 77
+},
+{
+    "name": "Codeeval",
+    "slug": "codeeval-e64b6c842a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Vue.js",
+            "value": "vue.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Hirevue offers a complete library of interview, game-based, virtual job tryouts and technical assessments. Candidates complete a brief assessment of their interests, interests, and background to present candidates with more opportunities. The results are then compared to your organization's open opportunities, recommending your organization’s opening opportunities, and recommending a candidate for the job. A demo of potential–not resumes will be available on the mobile request demo. ",
+    "url": "https://www.hirevue.com/platform/assessment-software",
+    "letterLength": 488,
+    "wordLength": 66
+},
+{
+    "name": "Codility",
+    "slug": "codility-e82df8002a8011efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "The #1 rated coding test & interview platform. Test developer skills with online coding interviews and create programming assessments to hire developers. Book a demo skills-based talent management for an ai-driven world. Our team of industrial-organizational psychologists has infused every aspect of the codility platform with rigorously reed yet accessible assessment science. Embrace the skills revolution with our innovative engineering skills model, skill-mapped content library,",
+    "url": "https://www.codility.com/",
+    "letterLength": 484,
+    "wordLength": 65
+}
+]

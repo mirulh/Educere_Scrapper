@@ -1,0 +1,140 @@
+[
+  {
+    "raw_url": "https://edabit.com/challenges/python3",
+    "name": "Edabit",
+    "url": "https://edabit.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.hackerrank.com/domains/python?filters%5Bdifficulty%5D%5B%5D=easy",
+    "name": "Hackerrank",
+    "url": "https://www.hackerrank.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://pythonprinciples.com/",
+    "name": "Pythonprinciples",
+    "url": "https://pythonprinciples.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.codewars.com/",
+    "name": "Codewars",
+    "url": "https://www.codewars.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://leetcode.com/problemset/algorithms/",
+    "name": "Leetcode",
+    "url": "https://leetcode.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://algorithm.codingdojo.com/lesson",
+    "name": "Codingdojo",
+    "url": "https://algorithm.codingdojo.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://projecteuler.net/archives",
+    "name": "Projecteuler",
+    "url": "https://projecteuler.net",
+    "type": ""
+  },
+  {
+    "raw_url": "https://codingbat.com/java",
+    "name": "Codingbat",
+    "url": "https://codingbat.com",
+    "type": ""
+  },
+  {
+    "raw_url": "http://cp-algorithms.com/",
+    "name": "Cp-algorithms",
+    "url": "http://cp-algorithms.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.techiedelight.com/list-of-problems/",
+    "name": "Techiedelight$",
+    "url": "https://www.techiedelight.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://coderbyte.com/",
+    "name": "Coderbyte",
+    "url": "https://coderbyte.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://devpost.com/](https://devpost.com/",
+    "name": "Devpost",
+    "url": "https://devpost.com",
+    "type": ""
+  },
+  {
+    "raw_url": "http://hackerearth.com/",
+    "name": "Hackerearth",
+    "url": "http://hackerearth.com",
+    "type": "hackathon"
+  },
+  {
+    "raw_url": "http://topcoder.com/",
+    "name": "Topcoder",
+    "url": "http://topcoder.com",
+    "type": "competitive programming"
+  },
+  {
+    "raw_url": "http://kaggle.com/",
+    "name": "Kaggle",
+    "url": "http://kaggle.com",
+    "type": "competitive programming"
+  },
+  {
+    "raw_url": "http://challengepost.com/",
+    "name": "Challengepost",
+    "url": "http://challengepost.com",
+    "type": "competitive programming"
+  },
+  {
+    "raw_url": "http://codeforces.com/",
+    "name": "Codeforces",
+    "url": "http://codeforces.com",
+    "type": "competitive programming"
+  },
+  {
+    "raw_url": "http://www.spoj.com/",
+    "name": "Spoj",
+    "url": "http://www.spoj.com",
+    "type": "competitive programming"
+  },
+  {
+    "raw_url": "http://www.lintcode.com/en/",
+    "name": "Lintcode",
+    "url": "http://www.lintcode.com",
+    "type": ""
+  },
+  {
+    "raw_url": "http://rosalind.info/problems/locations/",
+    "name": "Rosalind",
+    "url": "http://rosalind.info",
+    "type": "competitive programming"
+  },
+  {
+    "raw_url": "http://sql-ex.ru/",
+    "name": "Sql-ex",
+    "url": "http://sql-ex.ru",
+    "type": "competitive programming"
+  },
+  {
+    "raw_url": "http://codeabbey.com/",
+    "name": "Codeabbey",
+    "url": "http://codeabbey.com",
+    "type": "coding challenges"
+  },
+  {
+    "raw_url": "https://trprt.io/python-practice-problems-ifs-loops-control-flow](https://trprt.io/python-practice-problems-ifs-loops-control-flow",
+    "name": "Trprt",
+    "url": "https://trprt.io",
+    "type": ""
+  }
+]

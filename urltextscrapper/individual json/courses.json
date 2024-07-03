@@ -1,0 +1,2241 @@
+[
+{
+    "name": "Learndjango",
+    "slug": "learndjango-16856c7a28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Django",
+            "value": "django"
+        },
+        {
+            "label": "Flask",
+            "value": "flask"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Description: free tutorials and premium courses on building, testing, and deploying real-world web applications. Read now django hello, world how to build a simple hello, world application using. Models, views, urls, and templates. Read now flask vs django (2024) a comparison of the two leading python-based web frameworks. Click here for all the latest python tutorials from the u. S. ",
+    "url": "https://learndjango.com",
+    "letterLength": 387,
+    "wordLength": 60
+},
+{
+    "name": "Udacity",
+    "slug": "udacity-184be35428af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_U.png",
+    "category": [
+        {
+            "label": "Artificial Intelligence",
+            "value": "artificial-intelligence"
+        },
+        {
+            "label": "Data Science",
+            "value": "data-science"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Node.js",
+            "value": "node.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Learn online and advance your career with courses in programming, data science, artificial intelligence, digital marketing, and more. Join today! || body: cancel cancel for free every course has real-world projects designed to develop the skills you need to reach your career goals. Personalized every project receives personalized from industry experts, and our mentors are available to answer questions whenever you're feeling stuck. Learners love udacity ed me gain on-the-job confidence, build a portfolio, and earn",
+    "url": "https://www.udacity.com/",
+    "letterLength": 519,
+    "wordLength": 76
+},
+{
+    "name": "Pluralsight",
+    "slug": "pluralsight-1a2d1bb628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_P.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        }
+    ],
+    "type": [
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Pluralsight empowers you to master ai onboard quicker deliver faster upgrade your skills build tech fluency upskill teams collaborate better stream processes innovate smarter. If you’re an individual looking to learn python to advance your career or an enterprise team looking to cut cycle times, speed up onboarding, or give your teams the skills to realize your strategies, we remove the challenges and roadblocks slowing you down. We’re advancing the world’s tech workforce, and that starts with making your work more efficient and effective",
+    "url": "https://www.pluralsight.com",
+    "letterLength": 544,
+    "wordLength": 84
+},
+{
+    "name": "Freecodecamp",
+    "slug": "freecodecamp-1c1801a228af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_F.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Title: n/a || description: n/a || body: next: 'n/a' || 'body:n/an' | | 'boy:n. A. |' body - 'n/a' |. 'i'm not a big fan of a tv show,' he says. \"i don't want to be a fan of it'",
+    "url": "https://www.freecodecamp.org/",
+    "letterLength": 176,
+    "wordLength": 40
+},
+{
+    "name": "Upskillcourses",
+    "slug": "upskillcourses-1d9d0d6a28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_U.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Ruby",
+            "value": "ruby"
+        },
+        {
+            "label": "Php",
+            "value": "php"
+        },
+        {
+            "label": "Rails",
+            "value": "rails"
+        },
+        {
+            "label": "React.js",
+            "value": "react.js"
+        },
+        {
+            "label": "Vue.js",
+            "value": "vue.js"
+        },
+        {
+            "label": "Node.js",
+            "value": "node.js"
+        },
+        {
+            "label": "Backbone.js",
+            "value": "backbone.js"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Premium programming courses upskill is a high-quality tech training platform. Learn basic and state-of-the-art programming skills using modern technologies. New content added regularly we're constantly adding courses on topics like javascript, html5 & css3, php & mysql, node. Js, react, vue, backbone, ruby on rails and more. Over 130,000 students in 150 countries  our courses. Our students get jobs and start companies. ",
+    "url": "https://upskillcourses.com",
+    "letterLength": 423,
+    "wordLength": 62
+},
+{
+    "name": "Fullstackopen",
+    "slug": "fullstackopen-1f958d1828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_F.png",
+    "category": [
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "FullStack Development",
+            "value": "fullstack-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Typescript",
+            "value": "typescript"
+        },
+        {
+            "label": "Mongodb",
+            "value": "mongodb"
+        },
+        {
+            "label": "Graphql",
+            "value": "graphql"
+        },
+        {
+            "label": "Redux",
+            "value": "redux"
+        },
+        {
+            "label": "React.js",
+            "value": "react.js"
+        },
+        {
+            "label": "Node.js",
+            "value": "node.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "The course will introduce you to modern javascript-based modern web development. The main focus is on building single page applications with reactjs that use rest apis built with node. Js. You can discuss the course and related topics in our dedicated group on https://study. Cs. Helsinki. Fi//fullstack and on: https://www. T. Me/fullaxtackcourse. ",
+    "url": "https://fullstackopen.com/en/",
+    "letterLength": 349,
+    "wordLength": 52
+},
+{
+    "name": "Theodinproject",
+    "slug": "theodinproject-214a900428af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_T.png",
+    "category": [
+        {
+            "label": "Databases",
+            "value": "databases"
+        },
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "FullStack Development",
+            "value": "fullstack-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Ruby",
+            "value": "ruby"
+        },
+        {
+            "label": "Rails",
+            "value": "rails"
+        },
+        {
+            "label": "React.js",
+            "value": "react.js"
+        },
+        {
+            "label": "Node.js",
+            "value": "node.js"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "The odin project empowers aspiring web developers to learn together for free || body: close odin your career in web development starts here our full stack curriculum is free and ed by a passionate open source community. Learn from a curriculum with the best curated on tutorials, s, and courses. Build build dozens of portfolio-worthy projects along the way, from simple scripts to full programs and deployed websites. Connect you're not alone. Learn everything you need to know intermediate html and css advanced",
+    "url": "https://www.theodinproject.com",
+    "letterLength": 513,
+    "wordLength": 83
+},
+{
+    "name": "Khanacademy",
+    "slug": "khanacademy-23354d1428af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_K.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        }
+    ],
+    "type": [
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Khan academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere. If you're seeing this message, it means we're having trouble loading external resources on our website. To and use all the features of khan academy, please enable javascript in your browser. Khan academy's library of trusted practice and lessons covers math, science, and more. Always free for learners and teachers. Teachers can identify gaps in their students’ understanding, tailor instruction, and meet the needs of every",
+    "url": "https://www.khanacademy.org",
+    "letterLength": 535,
+    "wordLength": 83
+},
+{
+    "name": "Talkpython",
+    "slug": "talkpython-251e6e4428af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_T.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Fastapi",
+            "value": "fastapi"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        }
+    ],
+    "cost": "Paid",
+    "hasCert": false,
+    "description": "The talk python to me podcast features the best online python courses and tutorials. The talk python to me podcast is based on a trusted source. A professional trainer with over 10 years of experience has written and presented the courses. You can learn what you need exactly when you need it. Learn on learn on-demand through high quality training videos and additional resources are available 24/7 so you can rest assured that the courses you put time into become permanent resources for your career. ",
+    "url": "https://training.talkpython.fm",
+    "letterLength": 503,
+    "wordLength": 85
+},
+{
+    "name": "Codecademy",
+    "slug": "codecademy-26d8639828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        }
+    ],
+    "type": [
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Codecademy || description: learn the technical skills to get the job you want. Join over 50 million people choosing codecademy to start a new career. || body: grid regular grid regular the generation of learning build skills quicker with ai assistance gain experience with modern developer tools build skills faster with ai help build your tech career get personalized job listings and practice interview questions assess your job-readiness with ai get customized job listings. ",
+    "url": "https://www.codecademy.com/",
+    "letterLength": 478,
+    "wordLength": 74
+},
+{
+    "name": "Mit",
+    "slug": "mit-28aaecfe28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_M.png",
+    "category": [
+        {
+            "label": "Machine Learning",
+            "value": "machine-learning"
+        },
+        {
+            "label": "Operating Systems",
+            "value": "operating-systems"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "The missing semester of your cs education classes teach you all about advanced topics within cs, from operating systems to machine learning. Students spend hundreds of hours using these tools over the course of their education (and thousands over their career), so it makes sense to make the experience as fluid and frictionless as possible. Mastering these tools enables you to spend less time on figuring out how to bend your tools to your will, but also lets you solve problems that would ly seem impossibly complex. ",
+    "url": "https://missing.csail.mit.edu",
+    "letterLength": 520,
+    "wordLength": 87
+},
+{
+    "name": "Frontendmasters",
+    "slug": "frontendmasters-2a791d3a28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_F.png",
+    "category": [
+        {
+            "label": "Software Engineering",
+            "value": "software-engineering"
+        },
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "FullStack Development",
+            "value": "fullstack-development"
+        },
+        {
+            "label": "Frontend Development",
+            "value": "frontend-development"
+        },
+        {
+            "label": "Backend Development",
+            "value": "backend-development"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Go",
+            "value": "go"
+        },
+        {
+            "label": "Typescript",
+            "value": "typescript"
+        },
+        {
+            "label": "React.js",
+            "value": "react.js"
+        },
+        {
+            "label": "Vue.js",
+            "value": "vue.js"
+        },
+        {
+            "label": "Node.js",
+            "value": "node.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Frontend masters offers over 200 courses in javascript, react, and typescript to node. Js, fullstack, and backend. Browse our courses view learning paths learn practical tech skills from experts you can trust. Our curriculum is continually refreshed to align with the most recent advancements, guaranteeing that our learners are equipped with industry-standard best practices and cutting-edge techniques. The casual tone of the course is great because it's a great way to improve your web development and software engineering skills",
+    "url": "https://frontendmasters.com/",
+    "letterLength": 532,
+    "wordLength": 79
+},
+{
+    "name": "Learnpythonthehardway",
+    "slug": "learnpythonthehardway-2c86b9ca28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Learn code the hard way || description: n/a || body: programming education for pre-beginners learn code the hard way courses are the most effective system for learning the basics of computer programming. The courses have ed millions of people from all over the world, from all different age groups and skill levels. Thanks so much for putting your book on, it has served as a tremendous resource on learning python and just wanted to say i really appreciate it. ",
+    "url": "https://learncodethehardway.org/",
+    "letterLength": 462,
+    "wordLength": 79
+},
+{
+    "name": "Coursera",
+    "slug": "coursera-2e64ce7628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Cybersecurity",
+            "value": "cybersecurity"
+        },
+        {
+            "label": "UX Design",
+            "value": "ux-design"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        },
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": true,
+    "description": "Get coursera plus for just $20 per month, billed annually. A new career in as little as 6 months roles data analyst project manager digital marketer it specialist bookkeeper cybersecurity front-end developer ux designer data analyst collect, organize, and transform data to make informed decisions. \"for anyone starting out as a data analyst, this is a great introduction and is very inspiring,\" he said. The content was well paced and accessible to people just starting out. ",
+    "url": "https://www.coursera.org",
+    "letterLength": 476,
+    "wordLength": 76
+},
+{
+    "name": "Scrimba",
+    "slug": "scrimba-305cc37828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_S.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Title: home || description: n/a || body: n/a || blunder: bbc: cnn. Com: i'm a saxophone sxsy. I don't know if it's the sex of the world, i think it'll be a good thing if you're not a big fan of the u. S. ",
+    "url": "https://v2.scrimba.com/",
+    "letterLength": 204,
+    "wordLength": 44
+},
+{
+    "name": "Pythonprogramming",
+    "slug": "pythonprogramming-31d7e19228af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_P.png",
+    "category": [
+        {
+            "label": "Machine Learning",
+            "value": "machine-learning"
+        },
+        {
+            "label": "Robotics",
+            "value": "robotics"
+        },
+        {
+            "label": "Data Analysis",
+            "value": "data-analysis"
+        },
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "Game Development",
+            "value": "game-development"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Go",
+            "value": "go"
+        },
+        {
+            "label": "Django",
+            "value": "django"
+        },
+        {
+            "label": "Flask",
+            "value": "flask"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Python programming tutorials from beginner to advanced on a massive variety of topics. All video and text tutorials are free. View data analysis learn how to use python with pandas, matplotlib, and other modules to gather insights from and about your data. View quantum computer programming learn the basics and concepts of working with quantum computers and qubits through practical applications and the qiskit package. View bots & ai creating various software bots, like bots in games, in chats, and to interact",
+    "url": "https://pythonprogramming.net",
+    "letterLength": 513,
+    "wordLength": 82
+},
+{
+    "name": "Frontendmentor",
+    "slug": "frontendmentor-33bd4d1c28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_F.png",
+    "category": [
+        {
+            "label": "Frontend Development",
+            "value": "frontend-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "R",
+            "value": "r"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Github 839,585 developers building projects, reviewing code, and ing each other improve. Frontend mentor is a win-win. You can sharpen your skills building websites and add finished projects to your portfolio to land a job. The real learning happens when you start solving real-world problems yourself. If you have a real-life workflow, you can build a portfolio-worthy project. Click here to learn more about our hiring platform learning paths. ",
+    "url": "https://www.frontendmentor.io",
+    "letterLength": 446,
+    "wordLength": 69
+},
+{
+    "name": "Phptherightway",
+    "slug": "phptherightway-35b1b6c628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_P.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Php",
+            "value": "php"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Php: the right way is an easy-to-read, quick reference for php best practices, accepted coding standards, and what the contributors consider to be best practices at present. There’s a lot of outdated information on the web that leads new php users astray, propagating bad practices and insecure code. This website aims to introduce new php developers to some topics which they may not discover until it is too late. It will also not tell you which tools to use, but instead offer suggestions for multiple options,",
+    "url": "https://phptherightway.com/",
+    "letterLength": 513,
+    "wordLength": 86
+},
+{
+    "name": "Sololearn",
+    "slug": "sololearn-378ae69828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_S.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Java",
+            "value": "java"
+        },
+        {
+            "label": "C++",
+            "value": "cpp"
+        },
+        {
+            "label": "C#",
+            "value": "c-sharp"
+        },
+        {
+            "label": "Go",
+            "value": "go"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": true,
+    "description": "Learn to code with interactive, hands-on courses. It’s free. With google or options choose a course for you енеративн  на рактике араотик python снов рораммирование. You'll be writing real, functional code within minutes of starting your first course. Start learning bite-sized go step-by-step through our unique courses. ",
+    "url": "https://www.sololearn.com/en/",
+    "letterLength": 322,
+    "wordLength": 47
+},
+{
+    "name": "Edx",
+    "slug": "edx-39b41b8828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_E.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Learn your query your query develop ai, data, and tech skills. Get up to 30% off select programs until june 19. Edx courses and programs provide a space to learn new knowledge and skills in a variety of ways, from engaging video lectures and dynamic graphics to data visualizations and interactive elements. Learn from 260+ leading institutions audiences upskill at scale transform your organization with comprehensive upskilling solutions. Discover enterprise solutions the movement empower learners and teams around the world by creating",
+    "url": "https://www.edx.org",
+    "letterLength": 539,
+    "wordLength": 82
+},
+{
+    "name": "Learnxinyminutes",
+    "slug": "learnxinyminutes-3b96858028af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "C++",
+            "value": "cpp"
+        },
+        {
+            "label": "C#",
+            "value": "c-sharp"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Cs-cz de-de es-es fr-fr pt-br ru-ru tr-tr zh-cn coffeescript clojure macros. Cdc de-de hu-hu id-id it-it ja-jp ko-kr lt-lt ms-my nl-nl no-nb pl-pl p",
+    "url": "https://learnxinyminutes.com",
+    "letterLength": 148,
+    "wordLength": 24
+},
+{
+    "name": "Harvard",
+    "slug": "harvard-3e49fa1e28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_H.png",
+    "category": [
+        {
+            "label": "Data Science",
+            "value": "data-science"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": true,
+    "description": "Free online literature classes to in-person business courses for executives. Earn certificates for professional development, receive college degree credit, or take a class just for fun! advance your career. Pursue your passion. Keep learning. || body: professional and lifelong learning in-person, blended, and on courses all courses on courses free courses featured health & medicine the opportunities and difficulties facing widespread adoption of digital technologies in health care. Price $1,600 duration 4 weeks long registration dead register by jul 29 business on",
+    "url": "https://pll.harvard.edu/",
+    "letterLength": 570,
+    "wordLength": 82
+},
+{
+    "name": "Projectlearn",
+    "slug": "projectlearn-4039abbc28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_P.png",
+    "category": [
+        {
+            "label": "Artificial Intelligence",
+            "value": "artificial-intelligence"
+        },
+        {
+            "label": "Machine Learning",
+            "value": "machine-learning"
+        },
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "Mobile Development",
+            "value": "mobile-development"
+        },
+        {
+            "label": "Game Development",
+            "value": "game-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "C#",
+            "value": "c-sharp"
+        },
+        {
+            "label": "Flutter",
+            "value": "flutter"
+        },
+        {
+            "label": "React.js",
+            "value": "react.js"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Learn to code by creating projects || description: a project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Build web applications using html, css, javascript, react and more. Game development build awesome video games. C#, pygame, opengl, unity and more. Getnotified about new updates! 2023 projectlearn about contribution guides - 2023 projectlearn about contributions guides. ",
+    "url": "https://projectlearn.io",
+    "letterLength": 460,
+    "wordLength": 61
+},
+{
+    "name": "Codewithmosh",
+    "slug": "codewithmosh-41e2935c28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "React.js",
+            "value": "react.js"
+        },
+        {
+            "label": "Node.js",
+            "value": "node.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Code with mosh || description: become the software engineer that companies love to hire all the coding courses you need to excel in one place. We'll work to level up your skills, increase your earning potential, and build a brighter future. 10m+ students taught 3m+ fans 20+ years of experience 51 coding courses features why code with mosh? fast-track your learning no fluff, just the good stuff!",
+    "url": "https://codewithmosh.com",
+    "letterLength": 397,
+    "wordLength": 67
+},
+{
+    "name": "Engineer4free",
+    "slug": "engineer4free-43b40b7028af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_E.png",
+    "category": [
+        {
+            "label": "Project Management",
+            "value": "project-management"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Engineer4free is a free tutorial site where anyone can learn university level engineering for free. If you're cramming at 3am, reviewing for the fe exam, or just life-long-learning, you've come to the right place. I struggled with titrations for such a long time, and i finally get it! i got the same kind of question in my examination and i nailed it. Explained the ideas behind it well, rather than just throwing numbers and formulas",
+    "url": "https://www.engineer4free.com/",
+    "letterLength": 435,
+    "wordLength": 75
+},
+{
+    "name": "Ui.Dev",
+    "slug": "ui.dev-459adb4e28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_U.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Typescript",
+            "value": "typescript"
+        },
+        {
+            "label": "React.js",
+            "value": "react.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Ui. Dev's advanced javascript course prepares for interviews and landed a job at netflix. We help javascript developers make more money - and enjoy themselves in the process. You'll be in great company with other developers we’ve trained. Click here for more tutorials on the javascript ecosystem. Read our tutorials and learn how to use the u. Dev app. Share your experience with us on cnn. Com. ",
+    "url": "https://ui.dev",
+    "letterLength": 397,
+    "wordLength": 67
+},
+{
+    "name": "Goalkicker",
+    "slug": "goalkicker-47658a2828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_G.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "Ios Development",
+            "value": "ios-development"
+        },
+        {
+            "label": "Android Development",
+            "value": "android-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Java",
+            "value": "java"
+        },
+        {
+            "label": "C++",
+            "value": "cpp"
+        },
+        {
+            "label": "C#",
+            "value": "c-sharp"
+        },
+        {
+            "label": "Php",
+            "value": "php"
+        },
+        {
+            "label": "Haskell",
+            "value": "haskell"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "Node.js",
+            "value": "node.js"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Free programming books on android development, c, c#, css, html5, ios development, java, javascript, powershell, php, python, sql sever and more || body: programming notes for professionals books order a coffee!. Net framework notes for professionals book algorithms notes for professionals book android® notes of professionals book angular 2 notes for pros. For professional's book bash notes for. Professionals book c++ notes for pros",
+    "url": "https://goalkicker.com/",
+    "letterLength": 436,
+    "wordLength": 64
+},
+{
+    "name": "Dribbble",
+    "slug": "dribbble-49643ad628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_D.png",
+    "category": [
+        {
+            "label": "UI Design",
+            "value": "ui-design"
+        },
+        {
+            "label": "UX Design",
+            "value": "ux-design"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Description: find the world's top designers & creative professionals on dribbble. We are where designers gain inspiration, feedback, community, and jobs. The world’s destination for design get inspired by the work of millions of top-rated designers & agencies around the world. Lilla bardenova brand + illustrator brand illustration web victa wille digital designer mobile ui web andrea jeli digital designer brand ui web dan mall design educator product ux helen tran lead",
+    "url": "https://dribbble.com",
+    "letterLength": 473,
+    "wordLength": 72
+},
+{
+    "name": "Runestone",
+    "slug": "runestone-4b628cc028af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_R.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Runestone academy offers free on textbooks for math and computer science. A wide range of free online textbooks are available for download. The free textbooks are designed to help you master these subjects. Our textbooks provide comprehensive and interactive resources to your students. Click here to learn more about our free on books for math & computer science and. Download our free online textbooks. For more information, visit www. Runestone. Org. ",
+    "url": "https://landing.runestone.academy",
+    "letterLength": 454,
+    "wordLength": 71
+},
+{
+    "name": "Codeschool",
+    "slug": "codeschool-4d22b9e028af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "R",
+            "value": "r"
+        }
+    ],
+    "type": [
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Your code school experience has been automatically moved to the pluralsight platform. If you are an individual code school r, please. @pluralsight. Com to access your account. Start a 10-day free trial start a team trial skill assessments validate your skills and uncover knowledge gaps in today’s in-demand technologies. || body: s 1298 redirect link thank you! our team will be in touch shortly. Loading form. . . If this message remains, it may be",
+    "url": "https://www.pluralsight.com/codeschool",
+    "letterLength": 450,
+    "wordLength": 75
+},
+{
+    "name": "Mooc",
+    "slug": "mooc-4f2930fc28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_M.png",
+    "category": [
+        {
+            "label": "Artificial Intelligence",
+            "value": "artificial-intelligence"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Moocs (massive open on course) are all open and fully available on. You can have your own courses, with point lists and schedules tailored for you. Some of our courses can be used for your classes for free with some customization for your needs, for example by setting your own deads. For teachers popular courses show all courses study modules show all modules. If you're a beginner, you'll be able to learn the basics from the introduction to programming course. ",
+    "url": "https://www.mooc.fi/en/",
+    "letterLength": 465,
+    "wordLength": 80
+},
+{
+    "name": "Upgrad",
+    "slug": "upgrad-51076cb828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_U.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Online programs and courses by top global universities. Learn from anywhere in the world and shape your future. U. S. -based universities offer a wide range of courses and programs. Online courses are offered by universities across the globe. Click here to learn more about the online courses and courses offered by the top universities in the united states. In the uk, click here for more education - if you're a professional, you'll be able to get started. ",
+    "url": "https://www.upgrad.com/my/",
+    "letterLength": 459,
+    "wordLength": 78
+},
+{
+    "name": "Composingprograms",
+    "slug": "composingprograms-52c2cfb628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "A free introduction to programming and computer science. This text focuses on methods for abstraction, programming paradigms, and techniques for managing the complexity of large programs. In addition to reading the chapters below, you can apply your knowledge to the programming projects that accompany the text and visualize program execution using the on python tutor. Instructors: if you are interested in adapting any of these materials for your courses, please fill out this short survey so that we can your efforts. ",
+    "url": "https://www.composingprograms.com/",
+    "letterLength": 522,
+    "wordLength": 81
+},
+{
+    "name": "Learncpp",
+    "slug": "learncpp-548bb8e428af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "C++",
+            "value": "cpp"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Learncpp. Com is a free website devoted to teaching you how to program in modern c++. The lessons on this site will walk you through all the steps needed to write, compile, and debug your c++ programs. No prior programming experience is necessary, but programmers of all levels will benefit from our best practices, tips, and insights. A few common c++ problems 0. 9 configuring your compiler: build configurations 0. 10 configuring a compiler: compiler extensions 0. 11 configuring the compiler",
+    "url": "https://www.learncpp.com",
+    "letterLength": 495,
+    "wordLength": 81
+},
+{
+    "name": "Exercism",
+    "slug": "exercism-566ea60828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_E.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Java",
+            "value": "java"
+        },
+        {
+            "label": "C++",
+            "value": "cpp"
+        },
+        {
+            "label": "C#",
+            "value": "c-sharp"
+        },
+        {
+            "label": "Ruby",
+            "value": "ruby"
+        },
+        {
+            "label": "Php",
+            "value": "php"
+        },
+        {
+            "label": "Go",
+            "value": "go"
+        },
+        {
+            "label": "Typescript",
+            "value": "typescript"
+        },
+        {
+            "label": "Rust",
+            "value": "rust"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "For free languages is an independent, community funded, not-for-profit organisation. Learn, practice and get world-class mentoring in over 50 languages. Get fluent in 70 programming languages. 100% free. || body: get really good at programming. Can you solve the zebra puzzle which of the residents drinks water? who owns the zebra? can you create a zoo puzzle? if you have a problem with the zebra?",
+    "url": "https://exercism.org/",
+    "letterLength": 399,
+    "wordLength": 65
+},
+{
+    "name": "Learncs",
+    "slug": "learncs-5838bbd628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "C#",
+            "value": "c-sharp"
+        }
+    ],
+    "type": [
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Learncs. Org is a free interactive c# tutorial for people who want to learn the c# programming language. The free interactive tutorial is intended for everyone who wants to learn c#, fast. Click on the chapter you wish to begin from, and follow the instructions. If you want to contribute tutorials, please click on contributing tutorials down below. Receive a 50% code by using the code: 2frhugwxf0 start now. ",
+    "url": "https://www.learncs.org",
+    "letterLength": 411,
+    "wordLength": 69
+},
+{
+    "name": "Css-tricks",
+    "slug": "css-tricks-59fbc42c28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Css-tricks - tips, tricks, and techniques on using cascading style sheets. The main idea of css container queries is to register an element as a “container” and apply styles to other elements when the container element meets certain conditions. Geoff graham on jul 20, 2021 typewriter animation that handles anything you throw at it animation javascript murtuzaali surti almanac on jun 5, 2024. ",
+    "url": "https://css-tricks.com",
+    "letterLength": 395,
+    "wordLength": 63
+},
+{
+    "name": "LearnDigital",
+    "slug": "learndigital-5bdebd2628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Artificial Intelligence",
+            "value": "artificial-intelligence"
+        },
+        {
+            "label": "Cloud Computing",
+            "value": "cloud-computing"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": true,
+    "description": "|| body: grow with google uses cookies to deliver and enhance the quality of its services and to analyze traffic. Cookies are also used to serve advertising and to personalize the content and s that you see. Grow my career grow my business filter by topic type certificate duration location filters filter by topic artificial intelligence cloud computing coding & development communication data & analytics design digital marketing digital wellbeing diversity expand internationally job on safety productivity sell on sustainability type on courses products & tools live events 1 to 1 mentoring guides articles",
+    "url": "https://grow.google/intl/uk/courses-and-tools/",
+    "letterLength": 610,
+    "wordLength": 94
+},
+{
+    "name": "Codegym",
+    "slug": "codegym-5db2dca428af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Java",
+            "value": "java"
+        }
+    ],
+    "type": [
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Codegym is an online course to learn java. For beginners and for experienced programmers. Contains a java tutorial and 1200 practice tasks. 4. 8 57 reviews 4. 9 63 reviews 4. 8 1,600+ reviews i’m on it. Let’s start i'm on the course – let’s begin about the course what is learning java with codegym be like? you upgrade your “player character” to new levels, open new quests, and get achievements. ",
+    "url": "https://codegym.cc",
+    "letterLength": 398,
+    "wordLength": 71
+},
+{
+    "name": "Teamtreehouse",
+    "slug": "teamtreehouse-5f87c1e828af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_T.png",
+    "category": [
+        {
+            "label": "Data Science",
+            "value": "data-science"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "React.js",
+            "value": "react.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Learn to code online | treehouse || description: sign up for expert-led video courses to start your journey into coding, programming, and design. Perfect for beginners, intermediate, and advanced learners. Get 25% off with coupon code treehouse25. Learn ai, data science, python, and more—all on your own time try it free for 7 days, then $25 a month email i want to hear from treehouse about products and services. ",
+    "url": "https://teamtreehouse.com",
+    "letterLength": 416,
+    "wordLength": 69
+},
+{
+    "name": "Ionicacademy",
+    "slug": "ionicacademy-613eb71228af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_I.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Learn ionic fast with step-by-step video courses and join our private community today. Simon grimm now 60+ courses  18+ app templates  5000+ students  private  14 day money back guarantee turning web developers into ionic experts. Build on your existing skills and understand what it takes to build and release native mobile apps. Work with capacitor add native features like camera, push notifications or sqlite storage to any web app and integrate native plugins. ",
+    "url": "https://ionicacademy.com/",
+    "letterLength": 466,
+    "wordLength": 73
+},
+{
+    "name": "Brilliant",
+    "slug": "brilliant-63162c0a28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_B.png",
+    "category": [
+        {
+            "label": "Machine Learning",
+            "value": "machine-learning"
+        },
+        {
+            "label": "Data Analysis",
+            "value": "data-analysis"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Brilliant makes it easy to level up fast with fun, bite-sized lessons. Effective, hands-on learning visual, interactive lessons make concepts feel intuitive — so even complex ideas just click. Designed for ages 13 to 113. Developed for a total of 50,000. 5-star reviews on ios app store and google play trustpilot over 10 million people learning on brilliant over 50,000 5-star. Reviews on. Mobile app store and google play trustpilot. ",
+    "url": "https://brilliant.org/",
+    "letterLength": 436,
+    "wordLength": 70
+},
+{
+    "name": "Futurelearn",
+    "slug": "futurelearn-64d10ec028af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_F.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Futurelearn uses cookies to enhance your experience of the website. All but strictly necessary cookies are currently disabled for this browser. Progress your way 4. 58 average rating 184,696 learner reviews powered by make your 2024 count. Get unlimited and access 1400+ on courses from top universities. Leading experts from the likes of accenture, aws and deakin university will guide you to achieve them. From data analytics to digital marketing, start learning from the best. ",
+    "url": "https://www.futurelearn.com",
+    "letterLength": 480,
+    "wordLength": 75
+},
+{
+    "name": "Inside.Java",
+    "slug": "inside.java-668e976428af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_I.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Java",
+            "value": "java"
+        },
+        {
+            "label": "Spring",
+            "value": "spring"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Inside. Java news and views from members of the java team at oracle newscast. &nbsp & nbcsp jep café. Jep. Cafe. Also. On. The inside. Java : never ending innovation james grisanzio on june 12, 2024 oracle encoding for flattened heap values john rose on june 11, 2024 valhalla when to use dop v1. 1 nicolai parlog on june 10, 20",
+    "url": "https://inside.java",
+    "letterLength": 328,
+    "wordLength": 61
+},
+{
+    "name": "Kodeco",
+    "slug": "kodeco-6898bc0628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_K.png",
+    "category": [
+        {
+            "label": "Mobile Development",
+            "value": "mobile-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Swift",
+            "value": "swift"
+        },
+        {
+            "label": "Kotlin",
+            "value": "kotlin"
+        },
+        {
+            "label": "Dart",
+            "value": "dart"
+        },
+        {
+            "label": "Flutter",
+            "value": "flutter"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        }
+    ],
+    "cost": "Paid",
+    "hasCert": false,
+    "description": "Learn ios and swift, android and kotlin & dart and flutter development with the largest and highest-quality catalog of video courses and books on the internet. Raywenderlich. Com start for free toggle night mode starting for free kodeco requires javascript. Please enable javascript to enjoy the best experience. It's tough to keep up with mobile development these days. Constantly-changing platforms, libraries, frameworks, and more make it challenging to stay at top of your game. ",
+    "url": "https://www.kodeco.com/",
+    "letterLength": 483,
+    "wordLength": 74
+},
+{
+    "name": "Learndatasci",
+    "slug": "learndatasci-6a7cd91228af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Machine Learning",
+            "value": "machine-learning"
+        },
+        {
+            "label": "Data Science",
+            "value": "data-science"
+        },
+        {
+            "label": "Data Mining",
+            "value": "data-mining"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Learn data science - tutorials, books, courses, and more – learndatasci || description: democratizing data science, machine learning, & ai education. By clicking \"accept\" or further use this website, you agree to allow cookies to operate this website. A new specialization that teaches data mining and machine learning in healthcare a new specialization teaches ai in healthcare a new specialisation that is based on data mining. ",
+    "url": "https://www.learndatasci.com",
+    "letterLength": 430,
+    "wordLength": 66
+},
+{
+    "name": "Learnjavascript",
+    "slug": "learnjavascript-6c64fd5e28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_L.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        },
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        }
+    ],
+    "cost": "Paid",
+    "hasCert": false,
+    "description": "Learn javascript is the easiest, most interactive way to learn & practice modern javascript online. Read short lessons, solve challenges & answer flashcards. Try the first 77 lessons, challenges, projects (first 7 chapters) for free. The challenges are inspired by real-world projects to make sure that you're learning the best practices, one step at a time. You can upgrade to a pro account with a one-time payment that gives you access for 5 years. ",
+    "url": "https://learnjavascript.online",
+    "letterLength": 451,
+    "wordLength": 74
+},
+{
+    "name": "Devopswithdocker",
+    "slug": "devopswithdocker-6e3044ae28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_D.png",
+    "category": [
+        {
+            "label": "Databases",
+            "value": "databases"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        },
+        {
+            "label": "Devops",
+            "value": "devops"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Containers are a lightweight, portable way to package and deploy software applications. Throughout the course, we'll explore the various components of web services, such as reverse proxies and databases, and how they can be deployed using docker. Participants should have access to a computer with admin/superuser privileges. Attendees should also have a general understanding of software development concepts and concepts. The course will be held on january 1. ",
+    "url": "https://devopswithdocker.com",
+    "letterLength": 462,
+    "wordLength": 68
+},
+{
+    "name": "Devopswithkubernetes",
+    "slug": "devopswithkubernetes-6feb941a28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_D.png",
+    "category": [
+        {
+            "label": "Devops",
+            "value": "devops"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "MOOC",
+            "value": "mooc"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": true,
+    "description": "Devops with kubernetes is a free mooc created by the university of helsinki. You can learn how to deploy, manage and monitor software in kubernetes. The official start is 1st august, the university credits will not be awarded before that. Ects credits are only required for ects credits. It's recommended that you complete the course with your own computers. Click here for all the latest from the course. ",
+    "url": "https://devopswithkubernetes.com",
+    "letterLength": 406,
+    "wordLength": 68
+},
+{
+    "name": "Codechef",
+    "slug": "codechef-71c180a628af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "Data Structures",
+            "value": "data-structures"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Java",
+            "value": "java"
+        },
+        {
+            "label": "C++",
+            "value": "cpp"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "type": [
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        },
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Codechef - learn and practice coding with problems || description: learn coding with our free and beginner friendly courses on python, java, c, c++, data structures, algorithms, sql. Start learning today please enter valid email address to continue or with google github learn to code from scratch with job focussed courses designed by experts. 77. 6k+ learners 4. 7 view this course beginner learn java get hands-on experience in java programming with this interactive and practical course",
+    "url": "https://www.codechef.com/",
+    "letterLength": 490,
+    "wordLength": 77
+},
+{
+    "name": "Realpython",
+    "slug": "realpython-739c1f8028af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_R.png",
+    "category": [
+        {
+            "label": "Databases",
+            "value": "databases"
+        },
+        {
+            "label": "Devops",
+            "value": "devops"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Django",
+            "value": "django"
+        },
+        {
+            "label": "Flask",
+            "value": "flask"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        },
+        {
+            "label": "Interactive Content",
+            "value": "interactive-content"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Python tutorials for developers of all skill levels, python books and courses, python news, code examples, articles, and more. You'll also use both methods to recursively list directory contents. Api best-practices career community databases data-science data-structures data-viz devops django docker editors flask front-end gamedev gui machine-learning numpy projects python testing tools web-dev web-scraping real python learning paths guided",
+    "url": "https://realpython.com",
+    "letterLength": 444,
+    "wordLength": 58
+},
+{
+    "name": "Javascript",
+    "slug": "javascript-7590327c28af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_J.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Go",
+            "value": "go"
+        }
+    ],
+    "type": [
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more. Buy epub/pdf share: 22900  github chat table of contents main course contains 2 parts which cover javascript as a programming language and working with a browser. The modern javascript language here we learn javascript, starting from scratch and go on to advanced concepts like oop. We concentrate on the language itself here, with the minimum of environment-specific notes. ",
+    "url": "https://javascript.info",
+    "letterLength": 514,
+    "wordLength": 76
+},
+{
+    "name": "Kadenze",
+    "slug": "kadenze-776f61b228af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_K.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Kadenze brings together educators, artists, and engineers from leading universities to provide world-class education in the fields of art and creative technology. Register with email register with google register with microsoft created by potrace 1. 16, written by peter selinger 2001-2019 register with clever * first name * last name * email * password *password confirmation have a coupon code? discover your creative education to take on courses from the world's leading universities, brands, and institutions. ",
+    "url": "https://www.kadenze.com",
+    "letterLength": 515,
+    "wordLength": 76
+},
+{
+    "name": "Bigocheatsheet",
+    "slug": "bigocheatsheet-799364f228af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_B.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "React.js",
+            "value": "react.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "This webpage covers the space and time big-o complexities of common algorithms used in computer science. I've interviewed at several startups, and also some bigger companies, like google, , yahoo, and uber. To save all of you fine folks a ton of time, i went ahead and created a nice cheat sheet. - eric angularjs to react automated migration big-o complexity chart horrible bad fair good excellent o(log n), o(1) o(n) o(",
+    "url": "https://www.bigocheatsheet.com/",
+    "letterLength": 421,
+    "wordLength": 72
+},
+{
+    "name": "Gwu",
+    "slug": "gwu-7b92b1f428af11ef82f251d698235e32",
+    "image": "/images/letters_placeholder/default_G.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "| gw open edx || description: n/a || body: n/a || gw: gw. 'no one wants to do it,' says gw's 'open eedx'. \"no a lot of things to do with the open,' he says. The open is a great opportunity for a new generation of people to join the open. ",
+    "url": "https://openedx.seas.gwu.edu/",
+    "letterLength": 238,
+    "wordLength": 51
+}
+]

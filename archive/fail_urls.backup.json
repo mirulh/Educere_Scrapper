@@ -1,0 +1,50 @@
+[
+  {
+    "raw_url": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+    "name": "Udemy",
+    "url": "https://www.udemy.com",
+    "type": ""
+  },
+  {
+    "raw_url": "http://www.freecodecamp.com",
+    "name": "Freecodecamp",
+    "url": "http://www.freecodecamp.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.elementsofai.com/",
+    "name": "Elementsofai",
+    "url": "https://www.elementsofai.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://scrimba.com/learn/learnreact",
+    "name": "Scrimba",
+    "url": "https://scrimba.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.class-central.com/courses/selfpaced?subject=cs%2Cprogramming-and-software-development",
+    "name": "Class-central",
+    "url": "https://www.class-central.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://codepen.io/",
+    "name": "Codepen",
+    "url": "https://codepen.io",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.hackingwithswift.com/read",
+    "name": "Hackingwithswift",
+    "url": "https://www.hackingwithswift.com",
+    "type": ""
+  },
+  {
+    "raw_url": "http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about",
+    "name": "Gwu",
+    "url": "http://openedx.seas.gwu.edu",
+    "type": ""
+  }
+]

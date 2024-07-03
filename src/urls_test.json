@@ -1,0 +1,19 @@
+[
+  {
+    "raw_url": "https://www.theodinproject.com/",
+    "name": "Theodinproject",
+    "url": "https://www.theodinproject.com",
+    "content": "Our full stack curriculum is free and supported by a passionate open source community.",
+    "category": ["Web Development", "Fullstack Development"],
+    "techStack": [
+      "JavaScript",
+      "Java",
+      "Ruby",
+      "HTML",
+      "CSS",
+      "React",
+      "NodeJS",
+      "Ruby on Rails"
+    ]
+  }
+]

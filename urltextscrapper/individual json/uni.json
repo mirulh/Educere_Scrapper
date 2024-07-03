@@ -1,0 +1,455 @@
+[
+{
+    "name": "Harvard",
+    "slug": "harvard-b4f4f0122a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_H.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "Software Engineering",
+            "value": "software-engineering"
+        },
+        {
+            "label": "Web Development",
+            "value": "web-development"
+        },
+        {
+            "label": "Data Structures",
+            "value": "data-structures"
+        },
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        },
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "HTML/CSS",
+            "value": "html/css"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": true,
+    "description": "Cs50: introduction to computer science | harvard university || description: an introduction to the intellectual enterprises of computer science and the art of programming. On january 1, 2019 - december 31, 2024 price free * modality on image duration 11 weeks long time commitment 10 - 20 hours per week pace self-paced subject programming course language english video transcript english difficulty introductory credit audit for free add a verified certificate for $219 platform edx topics computer science data structure",
+    "url": "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0",
+    "letterLength": 522,
+    "wordLength": 79
+},
+{
+    "name": "Collegecompendium",
+    "slug": "collegecompendium-b797c7182a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "College compendium || description: learn at your own pace with a curated collection of free and open source computer science resources from top colleges across america || body: you need to enable javascript to run this app. If you want to run the app, you need to use the app to run it. The app is free and free, and you can download it to your computer. It can be downloaded from a variety of sources. ",
+    "url": "https://collegecompendium.org",
+    "letterLength": 403,
+    "wordLength": 76
+},
+{
+    "name": "Datastructur",
+    "slug": "datastructur-b96273182a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_D.png",
+    "category": [
+        {
+            "label": "Data Structures",
+            "value": "data-structures"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Spring",
+            "value": "spring"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "The final exam is scheduled for tuesday, 5/11, 8:10 - 11 am pt. A passing grade for undergraduate students is a c- which amounts to 6,000 points in cs 61b. Course evaluations (32 extra credit points) course evals are at 75. 84% and are due tonight. All students will be given 32 extra credit points if we reach 80%. We’ll post a more detailed announcement regarding proctoring tomorrow morning. ",
+    "url": "https://sp21.datastructur.es",
+    "letterLength": 395,
+    "wordLength": 69
+},
+{
+    "name": "Datasciencecourse$",
+    "slug": "datasciencecourse$-bb70382a2a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_D.png",
+    "category": [
+        {
+            "label": "Machine Learning",
+            "value": "machine-learning"
+        },
+        {
+            "label": "Deep Learning",
+            "value": "deep-learning"
+        },
+        {
+            "label": "Data Science",
+            "value": "data-science"
+        },
+        {
+            "label": "Big Data",
+            "value": "big-data"
+        },
+        {
+            "label": "FullStack Development",
+            "value": "fullstack-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free",
+    "hasCert": false,
+    "description": "Practical data science is the study and practice of how we can extract insight and knowledge from large amounts of data. It is a burgeoning field, currently attracting substantial demand from both academia and industry. This course provides a practical introduction to the “full stack” of data science analysis, including data collection and processing, data visualization and presentation, and statistical model building using machine learning. Topics covered include: collecting and processing data using relational methods, time series approaches, graph and network models, free text analysis, and spatial geographic",
+    "url": "http://www.datasciencecourse.org",
+    "letterLength": 619,
+    "wordLength": 88
+},
+{
+    "name": "Cs61a$",
+    "slug": "cs61a$-bd87bc5a2a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Express.js",
+            "value": "express.js"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        },
+        {
+            "label": "Text-Based",
+            "value": "text-based"
+        },
+        {
+            "label": "Hands-On Practice",
+            "value": "hands-on-practice"
+        },
+        {
+            "label": "Project-Based",
+            "value": "project-based"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Cs 61a does not use bcourses/canvas. Lecture begins monday 6/17. Discussion section begins tuesday 6/18. Lab section starts monday 6/18. This website is under construction and its contents are subject to change. Current assignments calendar week date lecture textbook lab 00: getting started due mon 6/24 tue 6/18 functions ch. 1. Ch. 1. 4 ch. 1. 5 disc 01: control, environment diagrams hw 01: functions, control, higher-order",
+    "url": "https://cs61a.org",
+    "letterLength": 427,
+    "wordLength": 67
+},
+{
+    "name": "Cs50",
+    "slug": "cs50-bfd081402a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Sql",
+            "value": "sql"
+        },
+        {
+            "label": "Cybersecurity",
+            "value": "cybersecurity"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Python",
+            "value": "python"
+        },
+        {
+            "label": "R",
+            "value": "r"
+        },
+        {
+            "label": "Sql",
+            "value": "sql"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Cs50 cdn || description: n/a || body: 2007 / 2008 / 2009 / 2010 / 2011 / 2012 / 2013 / 2014 / 2015 / 2016 / 2017 / 2018 / 2019 / 2020 / 2021/ 2022/ 2023/ 2024. Ai / ap / appletv / atv - cscie1a. ",
+    "url": "https://cdn.cs50.net/",
+    "letterLength": 195,
+    "wordLength": 48
+},
+{
+    "name": "Washington",
+    "slug": "washington-c1c9c68c2a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_W.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Courses. Cs. Washington. Edu || description: n/a || body: courses. Index of courses frequently-questioned questions @cs-washington edu. If you have any questions, please contact us on 020 555 111 or email us at (888) 777-7772 or visit www. Eu. Int/index_f. Php. If you have a question, please do not hesitate to contact us. ",
+    "url": "https://courses.cs.washington.edu",
+    "letterLength": 324,
+    "wordLength": 53
+},
+{
+    "name": "Imt-decal",
+    "slug": "imt-decal-c38de43a2a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_I.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Spring",
+            "value": "spring"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Imt decal, spring 2019 || description: n/a || body: n/a || n/a: body. Title: imt decal, spring 2019 | | description: n. A. || blunder: 'n. A. , n. O. ,' says tidbit: mrs decal's spokesman. ",
+    "url": "http://imt-decal.org",
+    "letterLength": 189,
+    "wordLength": 36
+},
+{
+    "name": "Berkeley",
+    "slug": "berkeley-c5195dac2a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_B.png",
+    "category": [
+        {
+            "label": "Software Development",
+            "value": "software-development"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "This site has links to eecs course pages and to information about e-learning labs and computing. Egyptians - esql - is a web-based web-acct self-service for accounts get accounts reset passwords. The site has a wide range of links to the eec and ecc's courses and information about the eec labs in the u. S. And europe. ",
+    "url": "https://inst.eecs.berkeley.edu",
+    "letterLength": 320,
+    "wordLength": 57
+},
+{
+    "name": "Cornell",
+    "slug": "cornell-c6efb1c62a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Machine Learning",
+            "value": "machine-learning"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Title: syllabus | machine learning for intelligent systems || description: n/a || body: machine learning for intelligent systems cs4780/cs5780. Machine learning for intelligent systems is a system that can be used to communicate with intelligent systems in a way that can communicate with the intelligent system. Cs 4780 is the first machine learning system in the world to be able to use a machine learning platform. ",
+    "url": "http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/",
+    "letterLength": 418,
+    "wordLength": 66
+},
+{
+    "name": "Eecs70$",
+    "slug": "eecs70$-c88a9aa02a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_E.png",
+    "category": [
+        {
+            "label": "Discrete Mathematics",
+            "value": "discrete-mathematics"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Spring",
+            "value": "spring"
+        }
+    ],
+    "type": [
+        {
+            "label": "Video Courses",
+            "value": "video-courses"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Cs70 at uc berkeley, spring 2024 sanjit seshia, alistair sinclair lecture: tuth 3:30pm -5:00pm, dwinelle 155 jump to current week note: this content schedule for spring 2024 is subject to change. Week date lecture resources notes discussion work 0 tue 1/16 introduction, propositional logic lecture full handout 6up note 2 note 3 1 tue 1/23 induction lecture fullhandout 6 up note 3 disc 1a , solutions disc 2",
+    "url": "https://www.eecs70.org",
+    "letterLength": 409,
+    "wordLength": 68
+},
+{
+    "name": "Depaul$",
+    "slug": "depaul$-caba71602a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_D.png",
+    "category": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "type": [
+        {
+            "label": "Coding Practice",
+            "value": "coding-practice"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Depaul's jarvis college of computing and digital media (cdm) offers undergraduate and graduate programs in a wide and diverse range of fields. The new jarvis student center for innovation and collaboration is an 8,000 square-foot open space. It is a 32,000 sq. Ft. Production facility and a production facility designed by professional filmmakers. A 3,000 square foot open space is available to students in the u. S. And europe. ",
+    "url": "https://www.cdm.depaul.edu/Pages/default.aspx",
+    "letterLength": 429,
+    "wordLength": 69
+},
+{
+    "name": "Cmu$",
+    "slug": "cmu$-ccf79b062a7e11efbbe0357cd7e525f7",
+    "image": "/images/letters_placeholder/default_C.png",
+    "category": [
+        {
+            "label": "Machine Learning",
+            "value": "machine-learning"
+        }
+    ],
+    "techStack": [
+        {
+            "label": "Javascript",
+            "value": "javascript"
+        }
+    ],
+    "type": [
+        {
+            "label": "Other",
+            "value": "other"
+        }
+    ],
+    "cost": "Free/Paid",
+    "hasCert": false,
+    "description": "Carnegie mellon’s school of computer science is widely recognized as one of the first and best computer science programs in the world. Our programs train the generation of innovators to solve real-world problems and improve the way people live and work. Ri re brings together humans, robots and generative ai to create art read all news upcoming events javascript is required for the scs calendar. Click here for all the latest news and updates. ",
+    "url": "https://www.cs.cmu.edu/",
+    "letterLength": 446,
+    "wordLength": 74
+}
+]

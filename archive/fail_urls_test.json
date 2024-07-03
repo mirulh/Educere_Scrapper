@@ -1,0 +1,32 @@
+[
+  {
+    "raw_url": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+    "name": "Udemy",
+    "url": "https://www.udemy.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.elementsofai.com/",
+    "name": "Elementsofai",
+    "url": "https://www.elementsofai.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.class-central.com/courses/selfpaced?subject=cs%2Cprogramming-and-software-development",
+    "name": "Class-central",
+    "url": "https://www.class-central.com",
+    "type": ""
+  },
+  {
+    "raw_url": "https://codepen.io/",
+    "name": "Codepen",
+    "url": "https://codepen.io",
+    "type": ""
+  },
+  {
+    "raw_url": "https://www.hackingwithswift.com/read",
+    "name": "Hackingwithswift",
+    "url": "https://www.hackingwithswift.com",
+    "type": ""
+  }
+]
