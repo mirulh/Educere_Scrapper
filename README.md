@@ -1,8 +1,8 @@
 ### Educere Srapper
 
-The two main functionalities of Educere Scrapper is for web scraping URLs for texts and conduct data labeling and text summarization using OpenAI API on the texts
+The two main functionalities of Educere Scrapper is for web scraping URLs for texts and conduct data labeling and text summarization using OpenAI API on the texts. The tasks below is done by automation
 
-Tools: Scrapy, OpenAI API, Transformer T5
+Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
 ## Webscraping Texts
 
