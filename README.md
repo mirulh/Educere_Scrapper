@@ -1,9 +1,10 @@
 ### Educere Srapper
 
-Educere Scrapper is a URLs extractor and webscrapper for Educere web application system.
-Educere web application system is a fullstack web application that consolidates 100+ learning resources of Computer Science and Information Technology (CS/IT). The source of the learning resources is taken from r/Learnprogramming.
-In Educere, user who wants to find resources/websites to learn CS/IT can navigate through the website contents that holds a repository of 100+ learning resources to choose from, from diverse selections with filter options.
-To learn more visit the project [here](https://github.com/mirulh/Educere)
+Educere Scraper is a URL extractor and web scraper for the Educere web application system. The Educere web application is a full-stack platform that consolidates over 100 learning resources in Computer Science and Information Technology (CS/IT). These resources are sourced from r/LearnProgramming.
+
+In Educere, users looking for CS/IT learning resources can navigate through a repository of over 100 options, with diverse selections and filter options.
+
+To learn more about the application, visit the project [here](https://github.com/mirulh/Educere)
 
 The main purpose of this Educere Scraper is to:
 
@@ -29,10 +30,10 @@ Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
 1. Collect URLs from r/LearnProgramming using PRAW.
 2. Scrape website texts:
-   2.1 Extract the TITLE, DESCRIPTION, and BODY text from each URL's home page and combine them.
+   Extract the TITLE, DESCRIPTION, and BODY text from each URL's home page and combine them.
 3. Curate relevant information from the texts:
-   3.1 Use a Python script to scan the texts, recognize keywords for subjects, technologies, etc., and categorize them in JSON.
-   3.2 Use Open Source LLMs or the OpenAI API to convert the raw texts into a readable description of the website.
+   Use a Python script to scan the texts, recognize keywords for subjects, technologies, etc., and categorize them in JSON.
+   Use Open Source LLMs or the OpenAI API to convert the raw texts into a readable description of the website.
 
 ![Alt text](pics/Methods.png)
 
