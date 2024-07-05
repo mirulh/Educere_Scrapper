@@ -1,6 +1,17 @@
 ### Educere Srapper
 
-The two main functionalities of Educere Scrapper is for web scraping URLs for texts and conduct data labeling and text summarization using OpenAI API on the texts. The tasks below is done by automation
+Educere Scrapper is a URLs extractor and webscrapper for Educere web application system.
+Educere web application system is a fullstack web application that consolidates 100+ learning resources of Computer Science and Information Technology (CS/IT). The source of the learning resources is taken from r/Learnprogramming.
+In Educere, user who wants to find resources/websites to learn CS/IT can navigate through the website contents that holds a repository of 100+ learning resources to choose from, from diverse selections with filter options.
+To learn more visit the project [here](https://github.com/mirulh/Educere)
+
+The main purpose of this Educere Scraper is to:
+
+1. Collect URLs (websites related to CS and IT) from the subreddit r/LearnProgramming.
+2. Process each URL to extract information about the website using web scraping.
+3. Label each URL with data describing the website in terms of subject area, technologies offered, content types, cost, and a general description.
+
+The data output at the will be seeded into Educere Web Application system
 
 Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
@@ -8,23 +19,32 @@ Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
 ## 1. Problem Statement
 
-- How to structure the data with this information in a JSON format?
+- How to structure the output data with this information in a JSON format from the links that we have collected?
 
 ![Alt text](pics/ProblemStatement.png)
 
 ## 2. Methodologies
 
-- We employed two strategies to get the output desired
+- We employed 3 Steps to get the output desired.
 
-  ![Alt text](pics/Methods.png)
+1. Collect URLs from r/LearnProgramming using PRAW.
+2. Scrape website texts:
+   2.1 Extract the TITLE, DESCRIPTION, and BODY text from each URL's home page and combine them.
+3. Curate relevant information from the texts:
+   3.1 Use a Python script to scan the texts, recognize keywords for subjects, technologies, etc., and categorize them in JSON.
+   3.2 Use Open Source LLMs or the OpenAI API to convert the raw texts into a readable description of the website.
+
+![Alt text](pics/Methods.png)
 
 ## 3. Webscraping texts
+
+- Using scrapy for webscraping, the script extracts all texts from the home page of the website and combine TITLE + DESCRIPTION + BODY together in one paragraph (raw text)
 
 ![Alt text](pics/Step1.png)
 
 ## 4. Data labeling
 
-- Label the url with data that describes its contents (subjects, types, technologies, cost, and certificate)
+- Using a Python script, label the url with data scanned from the raw text that describes its contents (subjects, types, technologies, cost, and certificate)
 
 ![Alt text](pics/Step2.png)
 
@@ -37,8 +57,10 @@ Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
 ## 6. Displaying the final output
 
+- This data can be seeded into Educere database properly as it follows the NoSQL structure
+
 ![Alt text](pics/FinalOutput.png)
 
-## 7. Apply the same step to the rest of URLs
+## 7. Apply the same step to the rest of URLs (by automation)
 
 ![Alt text](pics/FinalStep.png)
