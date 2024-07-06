@@ -14,7 +14,9 @@ The main purpose of this Educere Scraper is to:
 
 The data output at the will be seeded into Educere Web Application system
 
-Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
+### Tools utilized: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
+
+### Methods involved: Data processing, Data collection, Data scraping, Data cleaning, Data labeling, Data transformation
 
 ## Webscraping Texts
 
@@ -24,7 +26,7 @@ Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
 ![Alt text](pics/ProblemStatement.png)
 
-## 2. Methodologies
+## 2. Methodologies - Data collection
 
 - We employed 3 Steps to get the output desired.
 
@@ -37,9 +39,10 @@ Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
 ![Alt text](pics/Methods.png)
 
-## 3. Webscraping texts
+## 3. Webscraping texts - Data scraping, Data cleaning
 
-- Using scrapy for webscraping, the script extracts all texts from the home page of the website and combine TITLE + DESCRIPTION + BODY together in one paragraph (raw text)
+- (RIGHT - Data scraping) Using scrapy for webscraping, the script extracts all texts from the home page of the website and combine TITLE + DESCRIPTION + BODY together in one paragraph (raw text)
+- (LEFT - Data cleaning) Using Python functions, the script analyzed the raw text and removed irrelevant keywords from the raw text that matches the keywords found in the 'miscellaneous' array. This will produce more accurate output at the end.
 
 ![Alt text](pics/Step1.png)
 
@@ -49,7 +52,7 @@ Tools: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
 ![Alt text](pics/Step2.png)
 
-## 5. Text Summarization
+## 5. Text Summarization - Data transformation
 
 - Creating a readable description from the raw text using T5 LLM and OpenAI API
 - In this picture we compare the quality of the description produce between T5 and OpenAI text summarization. We can conclude that OpenAI produce more accurate output description than T5
