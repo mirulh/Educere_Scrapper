@@ -14,11 +14,13 @@ The main purpose of this Educere Scraper is to:
 
 The data output at the will be seeded into Educere Web Application system
 
+---
+
 ### Tools utilized: Scrapy, OpenAI API, Transformer T5, Reddit API, Python script
 
 ### Methods involved: Data processing, Data collection, Data scraping, Data cleaning, Data labeling, Data transformation
 
-## Webscraping Texts
+---
 
 ## 1. Problem Statement
 
