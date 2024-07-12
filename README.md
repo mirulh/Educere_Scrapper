@@ -1,4 +1,10 @@
-### Educere Srapper
+# Project Overview
+
+This is the phase 2 of Educere web application system which involved building a scrapper to collect link resources from a specified source and curate the relevant information for each resource.
+
+![Alt text](pics/implementation2.png)
+
+## Educere Srapper
 
 Educere Scraper is a URL extractor and web scraper for the Educere web application system. The Educere web application is a full-stack platform that consolidates over 100 learning resources in Computer Science and Information Technology (CS/IT). These resources are sourced from r/LearnProgramming.
 
